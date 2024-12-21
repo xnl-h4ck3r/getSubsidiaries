@@ -1,5 +1,6 @@
 # getSubsidiaries
-Get list of subsidiaries for a selected company
+
+Get list of subsidiaries for a selected company. This is useful for recon of wide scope bug bounty targets.
 
 ## Requirements
 
@@ -15,5 +16,5 @@ python getSubsidiairies.py "tesla"
 python getSubsidiairies.py "tesla inc"
 ```
 
-If nore than one company is found then select the company you want to search.
+If more than one company is found, then select the company you want to search.
 
